@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0,72],u:['../Content/support/arro/Notifications.htm'],s:['$','far','publish'],p:[['$',40],['all',52],['audit',11],['can',80],['copy',37],['each',50],['free',65],['https',13],['it',51],['module',63],['ok',86],['period',46],['relevant',39],['shortcuts',51],['the',5],['this',52],['undertake',87],['window',36]]});
